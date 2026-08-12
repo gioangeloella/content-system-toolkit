@@ -1,8 +1,8 @@
-# Content System Strategy Template
+# Content System strategy template
 
-A one-pager strategic template for defining and launching a content system function inside a product organization. Use it to align leadership, scope the work, and communicate what a content system is — and what it isn't — to stakeholders who don't think about content all day.
+A "one-pager" strategic template for defining and launching a content system function inside a product organization. Use it to align leadership, scope the work, and communicate what a content system is — and what it isn't — to stakeholders who don't think about content all day.
 
-> **How to use this:** Replace every bracketed placeholder with your own context. Keep it to no more than 2 pages. The power of a one-pager is that it forces clarity — if something doesn't fit on two pages, it's not essential enough to lead with.
+> **How to use this:** Replace every bracketed placeholder with your own context. Keep it to no more than 2 pages. The power of a one-pager is that it forces clarity — if something doesn't fit on two pages, it's not essential enough to include.
 
 ---
 
@@ -13,50 +13,50 @@ A one-pager strategic template for defining and launching a content system funct
 
 Example format: *"Designing the systems that let product teams write well at scale."*
 
-Include: your name, the team or org this sits within, the date, and a version number. Version numbers signal that this is a living document, not a final decree.
+Include: Your name, the team or org this sits within, the date, and a version number. Version numbers signal that this is a living document, not a final decree.
 
 ---
 
-## Why Now
+## Why now
 
-Three sentences maximum. Name the forces that make this the right moment. Most content system functions get created when several pressures converge at once.
+Three sentences max. Name the forces that make this the right moment. Most content system functions get created when several pressures converge at once.
 
 Common converging forces:
-- **A tooling shift** — AI or automation mature enough to make content systems genuinely scalable
+- **A tooling shift** — AI or automation is mature enough to make content systems genuinely scalable
 - **A structural change** — a reorganization, growth, or resource change that removes embedded content support
 - **A leadership mandate** — a directive to move a discipline from execution toward infrastructure
 
-> *Template line:* "Three forces converging: [tooling shift]. [structural change]. [leadership mandate]."
+> *Template line:* "Three forces converging: [Tooling shift]. [Structural change]. [Leadership mandate]."
 
 ---
 
-## The Core Grid
+## The four-cell grid
 
-A four-cell grid that answers the questions every stakeholder has. Keep each cell to 2–3 sentences.
+This answers the questions every stakeholder has. Keep each cell to 2–3 sentences max.
 
-### The Problem
-Name the real problem in business terms, not craft terms. Not "our microcopy is inconsistent" but "content quality depends on individual expertise and access to the right person — neither of which scales."
+### The problem
+Name the real problem in business terms, not craft terms. Not "our UX copy is inconsistent" but "content quality depends on individual expertise and access to the right person — neither of which scales."
 
 > *Template heading:* "[Content is X, not Y]" — e.g., "Content is a craft without a system."
 
-### The Mandate
+### The mandate
 What you've been asked to do, framed as a shift. What are you moving *away from*, and what are you moving *toward*?
 
 > *Template heading:* "[Infrastructure, not execution]" or similar.
 
-### The Role
+### The role
 What this function actually owns. The one-line version of the job. Emphasize that the output is infrastructure, not individual deliverables.
 
 > *Template heading:* "[Architect, not author]" or similar.
 
-### The Users
+### The users
 Who uses the system you're building. Name them explicitly. The system exists to serve these people — say who they are and what the system must do for them.
 
 > *Template heading:* "[Product designers as content owners]" or similar.
 
 ---
 
-## What the Content System Is
+## What the Content System is
 
 The clearest way to explain a content system to a non-content audience is in layers. Here's a three-layer model that works for most contexts — adapt the specifics to your org.
 
@@ -73,9 +73,9 @@ The operational layer. Review processes, quality signals, escalation paths, and 
 
 ---
 
-## What This Role Is Not
+## What the role is not
 
-One of the most important sections. A new content system function is constantly at risk of being pulled back into tactical work. Naming what the role is *not* — explicitly, on the strategic document — is how you defend the scope before the pressure starts.
+One of the most important sections. A new content system function is constantly at risk of being pulled back into tactical work. Naming what the role is *not* explicitly (on the strategic document) is how you defend the scope before the pressure starts.
 
 Format as a short list of struck-through items:
 
@@ -85,13 +85,13 @@ Format as a short list of struck-through items:
 - ~~One-off [content] support~~
 - ~~Embedded in a single [team]~~
 
-> **Why this matters:** The most common failure mode for a content system role is absorption into tactical work. This section is your reference point when someone asks you to do something the role isn't meant to do.
+> **Why this matters:** The most common failure mode for a content system role is getting dragged back into tactical work. This section is your reference point when someone asks you to do something the role isn't meant to do.
 
 ---
 
-## Risks We're Managing
+## Risks we're managing
 
-Name 2–3 real risks and the guardrail for each. Naming risks openly builds credibility — it signals you've thought past the vision into the reality.
+Name 2–3 real risks and the guardrails for each. Naming risks openly builds credibility. It signals you've thought past the vision into the reality.
 
 Common risks for a content system function:
 
