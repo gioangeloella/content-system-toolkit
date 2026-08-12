@@ -1,14 +1,14 @@
 # Content System Toolkit
 
-I pitched and built a Content Design Architect role from scratch inside 
+I'm building a Content Design Architect role from scratch inside 
 a product organization — defining the role, building the content system, 
 and rolling it out across design and engineering.
 
-Along the way, I built a set of strategic artifacts: One-pagers, rollout
-plans, quality rubrics, governance models, and goal frameworks. This repo
-is the generalized, reusable version of the work — without company
-specifics and codified into templates anyone building a content system can
-adapt.
+Along the way, I'm creating a set of strategic artifacts: One-pagers, 
+rollout plans, quality rubrics, governance models, and goal frameworks. 
+This repo is the generalized, reusable version of all the work — without 
+company specifics and codified into templates anyone building a content 
+system can adapt.
 
 ## What's here
 
