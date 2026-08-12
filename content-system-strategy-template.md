@@ -2,7 +2,7 @@
 
 A "one-pager" strategic template for defining and launching a content system function inside a product organization. Use it to align leadership, scope the work, and communicate what a content system is — and what it isn't — to stakeholders who don't think about content all day.
 
-> **How to use this:** Replace every bracketed placeholder with your own context. Keep it to no more than 2 pages. The power of a one-pager is that it forces clarity — if something doesn't fit on two pages, it's not essential enough to include.
+> **How to use this:** Replace every bracketed placeholder with your own context. Keep it to no more than 2 pages. The power of a one-pager is that it forces clarity — if it doesn't fit on two pages, it's not essential enough to lead with.
 
 ---
 
@@ -101,44 +101,44 @@ Common risks for a content system function:
 
 ---
 
-## Rollout — Horizons, Not Just Phases
+## Rollout — in horizons
 
-Sequential phases imply a level of control over the timeline that most real rollouts don't have. Consider framing your rollout as **horizons** — broader time windows that acknowledge parallel workstreams.
+Consider framing your rollout as **horizons** — broader windows of time that acknowledge parallel workstreams that overlap.
 
 **Horizon 1 — [Foundation + Bridge]** *([timeframe])*
-Build the backbone while a bridge solution holds the team. Standards, initial tooling, governance standing up.
+Build the backbone while a bridge solution holds the team. Standards, initial tooling, and governance are up and running.
 
 **Horizon 2 — [Scale + Sustain]** *([timeframe])*
 Scale what works. Extend into adjacent workflows (e.g., engineering). Quality becomes structural — enforced by the system, not by a person.
 
-> **Why horizons:** They're more honest about the reality of building a system while it's already in use. They also give you room to absorb slippage without missing a milestone.
+> **Why horizons:** They're more honest about the reality of building a system while it's already in use. They also give you more wiggle room to timing pivots without missing a milestone.
 
 ---
 
-## What Success Looks Like
+## What success looks like
 
-Three metrics maximum for a one-pager. Each should be measurable and tied to a business outcome. If you don't have baselines yet, describe the cadence or timeline instead of committing to a number you can't defend.
+Three metrics max for a one-pager. Each should be measurable and tied to a business outcome. If you don't have baselines yet, describe the cadence or timeline instead of committing to a number you can't achieve and defend.
 
-Balance three types:
+Three metric types to balance:
 - **An adoption metric** — are people using the system?
 - **A quality metric** — is the output getting better?
 - **An efficiency metric** — is the system saving time or reducing rework?
 
-> **Tip:** If a metric has no baseline yet, use a directional or cadence-based framing ("Monthly audits, baseline set in Q[X]") instead of a hard percentage. It reads as rigorous rather than aspirational, and you won't have to defend a number you invented.
+> **Tip:** If a metric has no baseline yet, use a directional or cadence-based framing ("Monthly audits, baseline set in Q[X]") instead of a hard percentage. It comes across rigorous vs. aspirational, and you won't have to defend a number you "invented".
 
 ---
 
 ## Footer
 
-Version number, function name, your name, and date. Reinforces that this is a living, owned document.
+Version number, function name, your name, your title, and date. Reinforces that this is a living document owned by you.
 
 ---
 
-## Notes on Using This Template
+## Tips on using this template
 
-- **One page (max 2 pages) is the discipline.** If it doesn't fit, it's not essential enough to lead with.
-- **Lead with business language, not craft language.** The audience for a strategic one-pager usually doesn't think about content design daily.
-- **The "what this is not" section is your most important defense.** Don't cut it to save space.
+- **Although called a "one-pager", two pages is more realistic if you're not a fan of mousetype.** If it doesn't fit into two pages, it's not essential enough to lead with.
+- **Lead with business language, not craft language.** The audience for a strategic one-pager doesn't think about content in their day-to-day.
+- **The "what this is not" section is a key defense.** Don't nix it to save space.
 - **Version it.** A version number signals the document evolves as the function matures.
 - **Revisit it quarterly.** A strategic one-pager should change as reality changes. The one you write at launch won't be the one you're using in six months.
 
