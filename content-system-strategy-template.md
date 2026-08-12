@@ -136,7 +136,7 @@ Version number, function name, your name, your title, and date. Reinforces that 
 
 ## Tips on using this template
 
-- **Although called a "one-pager", two pages is more realistic if you're not a fan of mousetype.** If it doesn't fit into two pages, it's not essential enough to lead with.
+- **Although called a "one-pager", two pages is more realistic unless you're a big fan of mousetype and squinting :).** If it doesn't fit into two pages, it's not essential enough to lead with.
 - **Lead with business language, not craft language.** The audience for a strategic one-pager doesn't think about content in their day-to-day.
 - **The "what this is not" section is a key defense.** Don't nix it to save space.
 - **Version it.** A version number signals the document evolves as the function matures.
