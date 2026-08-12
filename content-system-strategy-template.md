@@ -58,7 +58,7 @@ Who uses the system you're building. Name them explicitly. The system exists to 
 
 ## What the Content System is
 
-The clearest way to explain a content system to a non-content audience is in layers. Here's a three-layer model that works for most contexts — adapt the specifics to your org.
+The clearest way to explain a content system to a non-content audience is in layers. Here's a three-layer model that works for most contexts. Adapt the specifics to your org.
 
 **Layer 1 — Foundation**
 The standards and decision logic. Voice model, writing guidelines, and codified content decision trees integrated into workflows. This is what everything else is built on.
