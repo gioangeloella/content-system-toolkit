@@ -20,7 +20,7 @@ system can adapt.
   — A measurement framework for tracking adoption and usage of AI writing tools across a product design team.
 - **[Content System Roadmap](content-system-roadmap.md)**
   — A two-horizon framework for building and scaling a content system.
-- **[Content Systems Ownership Model](content-sytems-ownership-model.md)**
+- **[Content Systems Ownership Model](content-systems-ownership-model.md)**
   — A framework for defining what a content systems function owns, partners on, and does not do.
 - **[Definition Of Done Guide](definition-of-done-guide.md)**
   — A guide for design leadership to help drive content quality and accountability.
