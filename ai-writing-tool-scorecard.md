@@ -59,7 +59,7 @@ Raw server logs count every click. UX writing is iterative: designers rarely acc
 
 ## How to use the companion spreadsheet
 
-The companion CSV (`ai-writing-tool-scorecard.csv`) provides a fillable tracker with the following columns:
+The companion CSV ([ai-writing-tool-scorecard.csv](ai-writing-tool-scorecard.csv)) provides a fillable tracker with the following columns:
 
 - **Team member:** Designer name
 - **Estimated sessions:** Distinct copy tasks after applying the 15-minute filter
