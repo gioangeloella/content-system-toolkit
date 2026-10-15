@@ -42,6 +42,4 @@ situation.
 
 ---
 
-*More to come as I progress on the role and codify more templates -
-including rollout plans, quality rubrics, governance playbooks, goals,
-and more - so stay tuned!*
+*More to come as I progress on the role and codify more templates - so stay tuned!*
