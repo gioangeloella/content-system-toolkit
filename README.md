@@ -18,13 +18,13 @@ system can adapt.
   content system is and is not.
 - **[AI Writing Tool Scorecard](ai-writing-tool-scorecard.md)**
   — A measurement framework for tracking adoption and usage of AI writing tools across a product design team.
-- **[AI Writing Tool Scorecard](content-system-roadmap.md)**
+- **[Content System Roadmap](content-system-roadmap.md)**
   — A two-horizon framework for building and scaling a content system.
-- **[AI Writing Tool Scorecard](content-sytems-ownership-model.md)**
+- **[Content Systems Ownership Model](content-sytems-ownership-model.md)**
   — A framework for defining what a content systems function owns, partners on, and does not do.
-- **[AI Writing Tool Scorecard](definition-of-done-guide.md)**
+- **[Definition Of Done Guide](definition-of-done-guide.md)**
   — A guide for design leadership to help drive content quality and accountability.
-- **[AI Writing Tool Scorecard](designer-feedback-survey.md)**
+- **[Designer Feedback Survey](designer-feedback-survey.md)**
   — This is a question repo for gathering structured feedback from designers using an AI writing tool.
 
 ## Who this is for
