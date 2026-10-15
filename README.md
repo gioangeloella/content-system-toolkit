@@ -16,7 +16,7 @@ system can adapt.
   — A "one-pager" template for defining and launching a content system
   function. Aligns leadership, scopes the work, and communicates what a
   content system is and is not.
-- **[AI Writing Tool Scorecard](content-system-strategy-template.md)**
+- **[AI Writing Tool Scorecard](ai-writing-tool-scorecard.md)**
   — A measurement framework for tracking adoption and usage of AI writing tools across a product design team..
 
 ## Who this is for
