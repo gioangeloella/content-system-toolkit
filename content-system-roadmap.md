@@ -33,7 +33,7 @@ Organize milestones across four workstreams. Each maps to a distinct area of inv
 
 ## How to use the companion spreadsheet
 
-The companion CSV (`content-system-roadmap.csv`) provides a template with the following columns:
+The companion CSV ([content-system-roadmap.csv](content-system-roadmap.csv)) provides a fillable tracker with the following columns:
 
 - **Horizon:** 1 or 2
 - **Workstream:** Which of the four areas this milestone belongs to
